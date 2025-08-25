@@ -1,3 +1,5 @@
+![logo](https://github.com/ramjan-72/ramjan-72/blob/main2/Github%20Profile.png)
+
 <h1 align="center">Hi 👋, I'm Ramjan Khalyani</h1>
 <h3 align="center">A passionate data science from India</h3>
 
